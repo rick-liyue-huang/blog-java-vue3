@@ -1,4 +1,6 @@
-<<<<<<< HEAD
+
+# blog-java-vue3
+using java and vue3 to create one blog website
 
 .idea 不需要处理，这是ideaj 特有的，打包也不会包括进去
 
@@ -42,7 +44,4 @@ java web 经常有容器的概念，用于启动java web项目，常见的容器
 实际的工作中，每一次的项目迭代可以建立一个分支，上线后再合并到main分支
 
 
-=======
-# blog-java-vue3
-using java and vue3 to create one blog website
->>>>>>> 4a1235a2ee948451e26ed5dad8ff224fd05d112e
+
