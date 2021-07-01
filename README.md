@@ -43,5 +43,20 @@ java web 经常有容器的概念，用于启动java web项目，常见的容器
 
 实际的工作中，每一次的项目迭代可以建立一个分支，上线后再合并到main分支
 
+http/test.http 用来测试接口
+
+resources/application.properties
+resources/config/application.properties
+resources/application.yml
+resources/config/application.yml
+这些位置的配置文件都是可以自动识别的
+
+这里应该注意：
+
+单个的springboot不会读取boostrap.properties配置文件，要SpringCloud架构下的SpringBoot应用才会读取
+
+bootstrap一般用于动态配置，线上可以实时修改实时生效的配置，一般结合nacos使用
+
+在配置项中我们可以手动配置也可以在注解中设置默认值 `@Value("${test.hello:TEST}")` 这样在使用中就可以改变。
 
 
