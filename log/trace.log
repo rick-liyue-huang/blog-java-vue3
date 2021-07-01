@@ -94,3 +94,116 @@
 2021-07-01 11:52:53.901 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] :173  [32m                  [0;39m Initializing Spring DispatcherServlet 'dispatcherServlet'
 2021-07-01 11:52:53.902 INFO  org.springframework.web.servlet.DispatcherServlet :525  [32m                  [0;39m Initializing Servlet 'dispatcherServlet'
 2021-07-01 11:52:53.903 INFO  org.springframework.web.servlet.DispatcherServlet :547  [32m                  [0;39m Completed initialization in 0 ms
+2021-07-01 12:05:50.758 INFO  com.example.wiki.config.WikiApplication           :55   [32m                  [0;39m Starting WikiApplication using Java 11.0.9 on Ricks-MacBook-Pro.local with PID 5474 (/Users/rickhuang/Downloads/wiki/target/classes started by rickhuang in /Users/rickhuang/Downloads/wiki)
+2021-07-01 12:05:50.761 INFO  com.example.wiki.config.WikiApplication           :664  [32m                  [0;39m No active profile set, falling back to default profiles: default
+2021-07-01 12:05:51.524 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :108  [32m                  [0;39m Tomcat initialized with port(s): 8888 (http)
+2021-07-01 12:05:51.530 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Initializing ProtocolHandler ["http-nio-8888"]
+2021-07-01 12:05:51.530 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Starting service [Tomcat]
+2021-07-01 12:05:51.531 INFO  org.apache.catalina.core.StandardEngine           :173  [32m                  [0;39m Starting Servlet engine: [Apache Tomcat/9.0.48]
+2021-07-01 12:05:51.567 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] :173  [32m                  [0;39m Initializing Spring embedded WebApplicationContext
+2021-07-01 12:05:51.567 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext    :289  [32m                  [0;39m Root WebApplicationContext: initialization completed in 764 ms
+2021-07-01 12:05:51.794 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Starting ProtocolHandler ["http-nio-8888"]
+2021-07-01 12:05:51.817 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :220  [32m                  [0;39m Tomcat started on port(s): 8888 (http) with context path ''
+2021-07-01 12:05:51.827 INFO  com.example.wiki.config.WikiApplication           :61   [32m                  [0;39m Started WikiApplication in 1.393 seconds (JVM running for 1.963)
+2021-07-01 12:05:51.829 INFO  com.example.wiki.config.WikiApplication           :22   [32m                  [0;39m successfully start!!!
+2021-07-01 12:05:51.829 INFO  com.example.wiki.config.WikiApplication           :23   [32m                  [0;39m address: 	http://127.0.0.1:8888
+2021-07-01 12:06:13.166 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] :173  [32m                  [0;39m Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-07-01 12:06:13.167 INFO  org.springframework.web.servlet.DispatcherServlet :525  [32m                  [0;39m Initializing Servlet 'dispatcherServlet'
+2021-07-01 12:06:13.168 INFO  org.springframework.web.servlet.DispatcherServlet :547  [32m                  [0;39m Completed initialization in 1 ms
+2021-07-01 12:13:44.815 INFO  com.example.wiki.config.WikiApplication           :55   [32m                  [0;39m Starting WikiApplication using Java 11.0.9 on Ricks-MacBook-Pro.local with PID 5609 (/Users/rickhuang/Downloads/wiki/target/classes started by rickhuang in /Users/rickhuang/Downloads/wiki)
+2021-07-01 12:13:44.819 INFO  com.example.wiki.config.WikiApplication           :664  [32m                  [0;39m No active profile set, falling back to default profiles: default
+2021-07-01 12:13:45.373 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :108  [32m                  [0;39m Tomcat initialized with port(s): 8888 (http)
+2021-07-01 12:13:45.379 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Initializing ProtocolHandler ["http-nio-8888"]
+2021-07-01 12:13:45.380 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Starting service [Tomcat]
+2021-07-01 12:13:45.381 INFO  org.apache.catalina.core.StandardEngine           :173  [32m                  [0;39m Starting Servlet engine: [Apache Tomcat/9.0.48]
+2021-07-01 12:13:45.422 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] :173  [32m                  [0;39m Initializing Spring embedded WebApplicationContext
+2021-07-01 12:13:45.422 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext    :289  [32m                  [0;39m Root WebApplicationContext: initialization completed in 558 ms
+2021-07-01 12:13:45.600 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Starting ProtocolHandler ["http-nio-8888"]
+2021-07-01 12:13:45.619 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :220  [32m                  [0;39m Tomcat started on port(s): 8888 (http) with context path ''
+2021-07-01 12:13:45.630 INFO  com.example.wiki.config.WikiApplication           :61   [32m                  [0;39m Started WikiApplication in 1.098 seconds (JVM running for 1.74)
+2021-07-01 12:13:45.631 INFO  com.example.wiki.config.WikiApplication           :22   [32m                  [0;39m successfully start!!!
+2021-07-01 12:13:45.632 INFO  com.example.wiki.config.WikiApplication           :23   [32m                  [0;39m address: 	http://127.0.0.1:8888
+2021-07-01 12:14:32.652 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] :173  [32m                  [0;39m Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-07-01 12:14:32.653 INFO  org.springframework.web.servlet.DispatcherServlet :525  [32m                  [0;39m Initializing Servlet 'dispatcherServlet'
+2021-07-01 12:14:32.654 INFO  org.springframework.web.servlet.DispatcherServlet :547  [32m                  [0;39m Completed initialization in 0 ms
+2021-07-01 12:23:53.365 INFO  com.example.wiki.config.WikiApplication           :55   [32m                  [0;39m Starting WikiApplication using Java 11.0.9 on Ricks-MacBook-Pro.local with PID 5723 (/Users/rickhuang/Downloads/wiki/target/classes started by rickhuang in /Users/rickhuang/Downloads/wiki)
+2021-07-01 12:23:53.366 INFO  com.example.wiki.config.WikiApplication           :664  [32m                  [0;39m No active profile set, falling back to default profiles: default
+2021-07-01 12:23:53.932 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :108  [32m                  [0;39m Tomcat initialized with port(s): 8888 (http)
+2021-07-01 12:23:53.938 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Initializing ProtocolHandler ["http-nio-8888"]
+2021-07-01 12:23:53.938 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Starting service [Tomcat]
+2021-07-01 12:23:53.938 INFO  org.apache.catalina.core.StandardEngine           :173  [32m                  [0;39m Starting Servlet engine: [Apache Tomcat/9.0.48]
+2021-07-01 12:23:53.973 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] :173  [32m                  [0;39m Initializing Spring embedded WebApplicationContext
+2021-07-01 12:23:53.974 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext    :289  [32m                  [0;39m Root WebApplicationContext: initialization completed in 581 ms
+2021-07-01 12:23:54.173 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Starting ProtocolHandler ["http-nio-8888"]
+2021-07-01 12:23:54.192 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :220  [32m                  [0;39m Tomcat started on port(s): 8888 (http) with context path ''
+2021-07-01 12:23:54.203 INFO  com.example.wiki.config.WikiApplication           :61   [32m                  [0;39m Started WikiApplication in 1.091 seconds (JVM running for 1.517)
+2021-07-01 12:23:54.205 INFO  com.example.wiki.config.WikiApplication           :22   [32m                  [0;39m successfully start!!!
+2021-07-01 12:23:54.206 INFO  com.example.wiki.config.WikiApplication           :23   [32m                  [0;39m address: 	http://127.0.0.1:8888
+2021-07-01 12:24:14.716 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] :173  [32m                  [0;39m Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-07-01 12:24:14.717 INFO  org.springframework.web.servlet.DispatcherServlet :525  [32m                  [0;39m Initializing Servlet 'dispatcherServlet'
+2021-07-01 12:24:14.718 INFO  org.springframework.web.servlet.DispatcherServlet :547  [32m                  [0;39m Completed initialization in 1 ms
+2021-07-01 16:23:05.218 INFO  com.example.wiki.config.WikiApplication           :55   [32m                  [0;39m Starting WikiApplication using Java 11.0.9 on Ricks-MacBook-Pro.local with PID 3404 (/Users/rickhuang/Downloads/wiki/target/classes started by rickhuang in /Users/rickhuang/Downloads/wiki)
+2021-07-01 16:23:05.220 INFO  com.example.wiki.config.WikiApplication           :664  [32m                  [0;39m No active profile set, falling back to default profiles: default
+2021-07-01 16:23:05.979 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :108  [32m                  [0;39m Tomcat initialized with port(s): 8888 (http)
+2021-07-01 16:23:05.985 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Initializing ProtocolHandler ["http-nio-8888"]
+2021-07-01 16:23:05.986 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Starting service [Tomcat]
+2021-07-01 16:23:05.986 INFO  org.apache.catalina.core.StandardEngine           :173  [32m                  [0;39m Starting Servlet engine: [Apache Tomcat/9.0.48]
+2021-07-01 16:23:06.032 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] :173  [32m                  [0;39m Initializing Spring embedded WebApplicationContext
+2021-07-01 16:23:06.033 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext    :289  [32m                  [0;39m Root WebApplicationContext: initialization completed in 778 ms
+2021-07-01 16:23:06.310 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Starting ProtocolHandler ["http-nio-8888"]
+2021-07-01 16:23:06.335 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :220  [32m                  [0;39m Tomcat started on port(s): 8888 (http) with context path ''
+2021-07-01 16:23:06.346 INFO  com.example.wiki.config.WikiApplication           :61   [32m                  [0;39m Started WikiApplication in 1.495 seconds (JVM running for 2.121)
+2021-07-01 16:23:06.349 INFO  com.example.wiki.config.WikiApplication           :22   [32m                  [0;39m successfully start!!!
+2021-07-01 16:23:06.350 INFO  com.example.wiki.config.WikiApplication           :23   [32m                  [0;39m address: 	http://127.0.0.1:8888
+2021-07-01 16:23:13.397 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] :173  [32m                  [0;39m Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-07-01 16:23:13.398 INFO  org.springframework.web.servlet.DispatcherServlet :525  [32m                  [0;39m Initializing Servlet 'dispatcherServlet'
+2021-07-01 16:23:13.399 INFO  org.springframework.web.servlet.DispatcherServlet :547  [32m                  [0;39m Completed initialization in 1 ms
+2021-07-01 16:28:19.286 WARN  o.s.w.s.m.support.DefaultHandlerExceptionResolver :207  [32m                  [0;39m Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'GET' not supported]
+2021-07-01 16:30:53.569 INFO  com.example.wiki.config.WikiApplication           :55   [32m                  [0;39m Starting WikiApplication using Java 11.0.9 on Ricks-MacBook-Pro.local with PID 3598 (/Users/rickhuang/Downloads/wiki/target/classes started by rickhuang in /Users/rickhuang/Downloads/wiki)
+2021-07-01 16:30:53.572 INFO  com.example.wiki.config.WikiApplication           :664  [32m                  [0;39m No active profile set, falling back to default profiles: default
+2021-07-01 16:30:54.070 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :108  [32m                  [0;39m Tomcat initialized with port(s): 8888 (http)
+2021-07-01 16:30:54.076 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Initializing ProtocolHandler ["http-nio-8888"]
+2021-07-01 16:30:54.076 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Starting service [Tomcat]
+2021-07-01 16:30:54.076 INFO  org.apache.catalina.core.StandardEngine           :173  [32m                  [0;39m Starting Servlet engine: [Apache Tomcat/9.0.48]
+2021-07-01 16:30:54.111 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] :173  [32m                  [0;39m Initializing Spring embedded WebApplicationContext
+2021-07-01 16:30:54.111 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext    :289  [32m                  [0;39m Root WebApplicationContext: initialization completed in 508 ms
+2021-07-01 16:30:54.267 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Starting ProtocolHandler ["http-nio-8888"]
+2021-07-01 16:30:54.290 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :220  [32m                  [0;39m Tomcat started on port(s): 8888 (http) with context path ''
+2021-07-01 16:30:54.302 INFO  com.example.wiki.config.WikiApplication           :61   [32m                  [0;39m Started WikiApplication in 1.042 seconds (JVM running for 1.868)
+2021-07-01 16:30:54.304 INFO  com.example.wiki.config.WikiApplication           :22   [32m                  [0;39m successfully start!!!
+2021-07-01 16:30:54.304 INFO  com.example.wiki.config.WikiApplication           :23   [32m                  [0;39m address: 	http://127.0.0.1:8888
+2021-07-01 16:30:57.691 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] :173  [32m                  [0;39m Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-07-01 16:30:57.692 INFO  org.springframework.web.servlet.DispatcherServlet :525  [32m                  [0;39m Initializing Servlet 'dispatcherServlet'
+2021-07-01 16:30:57.693 INFO  org.springframework.web.servlet.DispatcherServlet :547  [32m                  [0;39m Completed initialization in 1 ms
+2021-07-01 16:44:36.569 INFO  com.example.wiki.config.WikiApplication           :55   [32m                  [0;39m Starting WikiApplication using Java 11.0.9 on Ricks-MacBook-Pro.local with PID 3707 (/Users/rickhuang/Downloads/wiki/target/classes started by rickhuang in /Users/rickhuang/Downloads/wiki)
+2021-07-01 16:44:36.571 INFO  com.example.wiki.config.WikiApplication           :664  [32m                  [0;39m No active profile set, falling back to default profiles: default
+2021-07-01 16:44:37.056 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :108  [32m                  [0;39m Tomcat initialized with port(s): 8888 (http)
+2021-07-01 16:44:37.061 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Initializing ProtocolHandler ["http-nio-8888"]
+2021-07-01 16:44:37.061 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Starting service [Tomcat]
+2021-07-01 16:44:37.062 INFO  org.apache.catalina.core.StandardEngine           :173  [32m                  [0;39m Starting Servlet engine: [Apache Tomcat/9.0.48]
+2021-07-01 16:44:37.095 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] :173  [32m                  [0;39m Initializing Spring embedded WebApplicationContext
+2021-07-01 16:44:37.096 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext    :289  [32m                  [0;39m Root WebApplicationContext: initialization completed in 498 ms
+2021-07-01 16:44:37.261 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Starting ProtocolHandler ["http-nio-8888"]
+2021-07-01 16:44:37.277 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :220  [32m                  [0;39m Tomcat started on port(s): 8888 (http) with context path ''
+2021-07-01 16:44:37.287 INFO  com.example.wiki.config.WikiApplication           :61   [32m                  [0;39m Started WikiApplication in 0.975 seconds (JVM running for 1.595)
+2021-07-01 16:44:37.289 INFO  com.example.wiki.config.WikiApplication           :22   [32m                  [0;39m successfully start!!!
+2021-07-01 16:44:37.289 INFO  com.example.wiki.config.WikiApplication           :23   [32m                  [0;39m address: 	http://127.0.0.1:8888
+2021-07-01 16:44:40.138 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] :173  [32m                  [0;39m Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-07-01 16:44:40.139 INFO  org.springframework.web.servlet.DispatcherServlet :525  [32m                  [0;39m Initializing Servlet 'dispatcherServlet'
+2021-07-01 16:44:40.140 INFO  org.springframework.web.servlet.DispatcherServlet :547  [32m                  [0;39m Completed initialization in 1 ms
+2021-07-01 16:45:09.667 INFO  com.example.wiki.config.WikiApplication           :55   [32m                  [0;39m Starting WikiApplication using Java 11.0.9 on Ricks-MacBook-Pro.local with PID 3718 (/Users/rickhuang/Downloads/wiki/target/classes started by rickhuang in /Users/rickhuang/Downloads/wiki)
+2021-07-01 16:45:09.669 INFO  com.example.wiki.config.WikiApplication           :664  [32m                  [0;39m No active profile set, falling back to default profiles: default
+2021-07-01 16:45:10.157 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :108  [32m                  [0;39m Tomcat initialized with port(s): 8888 (http)
+2021-07-01 16:45:10.162 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Initializing ProtocolHandler ["http-nio-8888"]
+2021-07-01 16:45:10.163 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Starting service [Tomcat]
+2021-07-01 16:45:10.163 INFO  org.apache.catalina.core.StandardEngine           :173  [32m                  [0;39m Starting Servlet engine: [Apache Tomcat/9.0.48]
+2021-07-01 16:45:10.197 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] :173  [32m                  [0;39m Initializing Spring embedded WebApplicationContext
+2021-07-01 16:45:10.197 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext    :289  [32m                  [0;39m Root WebApplicationContext: initialization completed in 500 ms
+2021-07-01 16:45:10.359 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Starting ProtocolHandler ["http-nio-8888"]
+2021-07-01 16:45:10.375 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :220  [32m                  [0;39m Tomcat started on port(s): 8888 (http) with context path ''
+2021-07-01 16:45:10.385 INFO  com.example.wiki.config.WikiApplication           :61   [32m                  [0;39m Started WikiApplication in 0.973 seconds (JVM running for 1.399)
+2021-07-01 16:45:10.387 INFO  com.example.wiki.config.WikiApplication           :22   [32m                  [0;39m successfully start!!!
+2021-07-01 16:45:10.387 INFO  com.example.wiki.config.WikiApplication           :23   [32m                  [0;39m address: 	http://127.0.0.1:8888
+2021-07-01 16:45:16.344 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] :173  [32m                  [0;39m Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-07-01 16:45:16.345 INFO  org.springframework.web.servlet.DispatcherServlet :525  [32m                  [0;39m Initializing Servlet 'dispatcherServlet'
+2021-07-01 16:45:16.346 INFO  org.springframework.web.servlet.DispatcherServlet :547  [32m                  [0;39m Completed initialization in 1 ms
