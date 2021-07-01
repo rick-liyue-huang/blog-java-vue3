@@ -68,5 +68,29 @@ mybatis 是持久层的处理工具，和数据库交互的就叫做持久层
 常见的齿距层框架： mybaits hibernate 
 Mybatis 需要自己写sql 式半自动的
 
+对于和数据库连接的文件放入到 domain或者 entity,POJO,这一层的实体类就是和数据库的一一映射
+
+接口定义在 mapper文件夹中
+
+/resources/mapper 中放入 sql脚本 
+
+source/ 用来写入逻辑代码
+
+程序的接口入口实在 Controller/TestController
+然后访问
+```
+@RequestMapping("/test/list")
+	public List<Test> list() {
+		return testService.list();
+	}
+```
+
+这个方法会调用 testService,然后在里面会调用 mapper/TestMapper这一层
+
+再然后 通过application.properties的设置会找到
+resources/mapper/TestMapper.xml 执行里面的sql语句
+而domain是和sql的属性相对应的 。
+
+
 
 

@@ -20,3 +20,4 @@ name=Test
 
 ###
 
+GET http://localhost:8888/test/list
