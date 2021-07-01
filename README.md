@@ -60,3 +60,13 @@ bootstrap一般用于动态配置，线上可以实时修改实时生效的配�
 在配置项中我们可以手动配置也可以在注解中设置默认值 `@Value("${test.hello:TEST}")` 这样在使用中就可以改变。
 
 
+创建数据库 
+用户名wiki wiki
+
+mybatis 是持久层的处理工具，和数据库交互的就叫做持久层
+还有业务层和表现层
+常见的齿距层框架： mybaits hibernate 
+Mybatis 需要自己写sql 式半自动的
+
+
+
