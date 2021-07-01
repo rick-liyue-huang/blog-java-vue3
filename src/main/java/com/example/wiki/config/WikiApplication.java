@@ -1,12 +1,16 @@
-package com.example.wiki;
+package com.example.wiki.config;
 
-import org.apache.juli.logging.LogFactory;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.context.annotation.ComponentScan;
 import org.springframework.core.env.Environment;
 
+/*
+	@ComponentScan只能支持当前及子目录的加载controller，如果需要不同的目录，需要额外写入到括号中，并且可以通过逗号分隔开写入多个目录
+*/
+@ComponentScan({"com.example"})
 @SpringBootApplication
 public class WikiApplication {
 
