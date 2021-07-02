@@ -1,0 +1,294 @@
+GET http://localhost:8888/ebook/list
+
+<> 2021-07-02T194405.200.json
+
+###
+
+GET http://localhost:8888/demo/list1
+
+<> 2021-07-02T102842.200.json
+
+###
+
+GET http://localhost:8888/demo/list
+
+<> 2021-07-02T102623.200.json
+
+###
+
+GET http://localhost:8888/test/list
+
+<> 2021-07-02T090600.200.json
+
+###
+
+GET http://localhost:8888/test/list
+
+<> 2021-07-02T090356.200.json
+
+###
+
+GET http://localhost:8888/test/list
+
+<> 2021-07-02T090059.500.json
+
+###
+
+GET http://localhost:8888/test/list
+
+<> 2021-07-02T090009.500.json
+
+###
+
+GET http://localhost:8888/hello
+
+<> 2021-07-01T174132.200.txt
+
+###
+
+GET http://localhost:8888/hello
+
+<> 2021-07-01T174122.200.txt
+
+###
+
+GET http://localhost:8888/hello
+
+<> 2021-07-01T173853.200.txt
+
+###
+
+GET http://localhost:8888/hello
+
+<> 2021-07-01T173811.200.txt
+
+###
+
+GET http://localhost:8888/hello
+
+<> 2021-07-01T173407.200.txt
+
+###
+
+GET http://localhost:8888/hello
+
+<> 2021-07-01T173339.200.txt
+
+###
+
+GET http://localhost:8888/hello
+
+<> 2021-07-01T172958.200.txt
+
+###
+
+GET http://localhost:8888/hello
+
+<> 2021-07-01T172854.200.txt
+
+###
+
+GET http://localhost:8888/hello
+
+<> 2021-07-01T171901.200.txt
+
+###
+
+GET http://localhost:8888/hello
+
+<> 2021-07-01T171833.200.txt
+
+###
+
+GET http://localhost:8888/hello
+
+<> 2021-07-01T171610.200.txt
+
+###
+
+GET http://localhost:8888/hello
+
+<> 2021-07-01T164516.200.txt
+
+###
+
+GET http://localhost:8888/hello
+
+<> 2021-07-01T164444.200.txt
+
+###
+
+GET http://localhost:8888/hello
+
+<> 2021-07-01T164417.200.txt
+
+###
+
+GET http://localhost:8888/hello
+
+<> 2021-07-01T164259.200.txt
+
+###
+
+GET http://localhost:8888/hello
+Accept: application/json
+
+<> 2021-07-01T164212.200.json
+
+###
+
+GET http://localhost:8888/hello
+Accept: application/json
+
+<> 2021-07-01T164201.200.json
+
+###
+
+GET http://localhost:8888/hello
+Accept: application/json
+
+<> 2021-07-01T164109.200.json
+
+###
+
+POST http://localhost:8888/hello/post
+Content-Type: application/x-www-form-urlencoded
+
+name=Test
+
+<> 2021-07-01T163516.200.txt
+
+###
+
+POST http://localhost:8888/hello/post
+Content-Type: application/x-www-form-urlencoded
+
+name = Test
+
+<> 2021-07-01T163509.200.txt
+
+###
+
+POST http://localhost:8888/hello/post
+Content-Type: application/x-www-form-urlencoded
+
+name = Test
+
+<> 2021-07-01T163447.200.txt
+
+###
+
+GET http://localhost:8888/hello
+Accept: application/json
+
+<> 2021-07-01T163134.200.json
+
+###
+
+GET http://localhost:8888/api/item?id=99
+Accept: application/json
+
+<> 2021-07-01T163107.404.json
+
+###
+
+GET http://127.0.0.2:8080/hello
+Accept: application/json
+
+###
+
+GET http://localhost:8080/hello
+Accept: application/json
+
+###
+
+GET http://localhost:8880/hello
+Accept: application/json
+
+###
+
+GET http://localhost:8880/hello
+Accept: application/json
+
+###
+
+GET http://localhost:8880/hello
+Accept: application/json
+
+###
+
+GET http://localhost:8880/hello
+Accept: application/json
+
+###
+
+GET http://localhost:8880/hello
+Accept: application/json
+
+###
+
+GET http://localhost:80/hello
+Accept: application/json
+
+###
+
+GET http://localhost:8880/hello
+Accept: application/json
+
+###
+
+GET http://localhost:8880/hello
+Accept: application/json
+
+###
+
+GET http://localhost:8880/hello
+Accept: application/json
+
+###
+
+GET http://localhost:8880/hello
+Accept: application/json
+
+###
+
+GET http://localhost:8880/hello
+Accept: application/json
+
+###
+
+GET http://localhost:8880/hello
+Accept: application/json
+
+###
+
+GET http://localhost:8880/hello
+Accept: application/json
+
+###
+
+GET http://localhost:8880/hello
+Accept: application/json
+
+###
+
+GET http://localhost:8880/hello
+Accept: application/json
+
+###
+
+GET http://localhost:8880/hello
+Accept: application/json
+
+###
+
+GET http://localhost:8880/hello
+Accept: application/json
+
+###
+
+GET http://localhost:8880/hello
+Accept: application/json
+
+###
+
